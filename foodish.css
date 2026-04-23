@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color:purple;
+    
+}
+button{
+    display:block;
+    margin:0 auto;
+    background-color: lawngreen;
+    
+    
+}
+div{
+    
+  width: 300px;         
+  margin: 30px auto;     
+  padding: 10px;
+  box-shadow: 5px 5px 15px gray;
+  border-radius: 15px;
+  background: white;
+  display: flex;
+  justify-content: center;  
+  align-items: center;     
+}
+
+body{
+    background-color: lavenderblush;
+    display: flex; 
+    justify-content: center; 
+    flex-direction: column; 
+}
